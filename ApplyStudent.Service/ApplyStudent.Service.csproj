@@ -52,7 +52,9 @@
       <DependentUpon>201805261546558_initial commit - add table student.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="ModelsDTO\StudentDTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\StudentService.cs" />
     <Compile Include="UniversityDBContext.cs" />
   </ItemGroup>
   <ItemGroup>
